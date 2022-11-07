@@ -1,3 +1,7 @@
+[E-commerce shopping cart](https://harmonious-sherbet-45dff5.netlify.app/)
+
+Using Faker library that generates fake(but reasonable) data that I use in my website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
